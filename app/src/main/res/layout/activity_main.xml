@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="@string/qual_o_valor_em_real"
+        android:textColor="@color/colorSecundaryText"
         android:textSize="25sp" />
 
     <EditText
@@ -23,9 +24,7 @@
         android:layout_gravity="center"
         android:inputType="numberSigned"
         android:textAlignment="center"
-        android:textColor="#8BC34A"
-        android:textColorHighlight="#8BC34A"
-        android:textColorLink="#8BC34A"
+        android:textColor="@color/colorSecundaryText"
         android:textSize="30sp" />
 
     <TextView
@@ -33,16 +32,16 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:text="@string/valor_em_dolar"
+        android:textColor="@color/colorSecundaryText"
         android:textSize="15sp" />
 
     <TextView
         android:id="@+id/text_dollar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#FFFFFF"
         android:padding="10dp"
         android:text="@string/dolar"
-        android:textColor="#8BC34A"
+        android:textColor="@color/colorAccent"
         android:textSize="25sp" />
 
     <TextView
@@ -50,6 +49,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:text="@string/valor_em_euro"
+        android:textColor="@color/colorSecundaryText"
         android:textSize="15sp" />
 
     <TextView
@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:padding="10dp"
         android:text="@string/euro"
-        android:textColor="#8BC34A"
+        android:textColor="@color/colorAccent"
         android:textSize="25sp" />
 
     <Button
@@ -66,8 +66,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
+        android:background="@color/colorAccent"
         android:text="@string/calcular"
-        android:textColor="#FDC5C5" />
+        android:textColor="@color/colorLight" />
+
 
     <Button
         android:id="@+id/button_clear"
@@ -76,5 +78,4 @@
         android:layout_marginTop="20dp"
         android:text="@string/limpar"
         app:backgroundTint="#555151" />
-
 </LinearLayout>
