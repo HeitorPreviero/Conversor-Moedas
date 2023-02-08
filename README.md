@@ -15,7 +15,9 @@ DESCRIÇÃO DO PROJETO FOCADA NAS FEATURES (FUNCIONALIDADES). VOCÊ ESTA VENDEND
 </br>
 
 <p float="left" align="center">
-TELAS DO APLICATIVO. FOQUE EM MOSTRAR O QUE É BONITO E IMPORTANTE NO SEU APLICATIVO
+<img alt="screenshot" width="30%" src="screenshot/Screenshot_1.png"/>
+<img alt="screenshot" width="30%" src="screenshot/Screenshot_2.png"/>
+<img alt="screenshot" width="30%" src="screenshot/Screenshot_3.png"/>
 </p>
 
 ## Download
