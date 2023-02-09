@@ -32,9 +32,9 @@ faça o download da <a href="https://github.com/HeitorPreviero/ConversorMoedas/b
 ## Features
 
 ### Feature 1
-<img src="screenshots/feature-1.gif" width="25%"/>
+<img src="screenshot/feature-1.gif" width="25%"/>
 
-Texto de exemplo
+Essa funcionalidade ele recebe uma valor em Real e depois que for acionado o botão de calcular é feito conversão para Dólar e Euro, o botão de limpar lipar os dados em tela para poder inciar um novo calculo.
 
 
 
