@@ -1,7 +1,10 @@
 <h1 align="center">Conversor de Moedas</h1>
 
 <p align="center">  
-  <a href="https://android-arsenal.com/api?level=19"><img src="https://img.shields.io/badge/API-19%2B-blue.svg?style=flat" border="0" alt="API"></a>
+  <a href="https://android-arsenal.com/api?level=19"><img src="https://img.shields.io/badge/API-19%2B-blue.svg?style=flat" border="0" alt="API"></a><br>
+  <a href="mailto:heitorpreviero@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+  <a href="https://www.linkedin.com/in/heitor-feltrin-previero-b6982814a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&      logoColor=white"/><a/>
+<a href="https://wa.me/+55 14981754016"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
 </p>
 
 <p align="center">  
