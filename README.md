@@ -37,7 +37,9 @@ faça o download da <a href="https://github.com/HeitorPreviero/ConversorMoedas/b
 ### Feature 1
 <img src="screenshot/feature-1.gif" width="25%"/>
 
-Essa funcionalidade ele recebe uma valor em Real e depois que for acionado o botão de calcular é feito conversão para Dólar e Euro, o botão de limpar lipar os dados em tela para poder inciar um novo calculo.
+- ele recebe uma valor em Real e depois que for acionado o botão de calcular é feito conversão para Dólar e Euro.
+- se não for passado nenhum valor a tela retorna uma mensagem de alerta pro úsuario.
+- botão de limpar ao ser acionado ele lipa os  dados em tela para poder inciar um novo calculo.
 
 
 
