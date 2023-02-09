@@ -8,7 +8,7 @@
 
 ⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Java. Mais informações técnicas abaixo.
 
-🎥 Aplicativo recebe um valor no imput que faz uma conversão em Dólar e Euro e exibe em tela esse dois valores.
+🎥 Aplicativo recebe um valor em Real no imput que faz uma conversão em Dólar e Euro e exibe em tela depois que feito o calulo esse dois valores.
 
 </p>
 
